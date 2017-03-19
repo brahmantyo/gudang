@@ -1,0 +1,3 @@
+DB/
+tmp/logs/access_log
+tmp/logs/error.log
